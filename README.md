@@ -1,1 +1,2 @@
-Takamori KK
+<h1>About Takamori KK</h1>
+<p>Takamori KK is a property management company based in Tokyo, Japan. Established on March 19, 2024, the company operates with a capital of 150,000 JPY and 15 shares. Located at Yamauchi Building 3F, 3-24-8 Nishi-Shimbashi, Minato-ku, Tokyo 105-0003, Takamori KK manages both short-term and long-term rental properties, providing administrative and operational support for real estate in Japan.</p>
